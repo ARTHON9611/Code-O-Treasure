@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710426626179",
+    "project_id": "code-o-treasure-41o91u",
+    "storage_bucket": "code-o-treasure-41o91u.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710426626179:android:5ca73c01587f490563b3b6",
+        "android_client_info": {
+          "package_name": "com.mycompany.codeotreasure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClC5cCaoDSS-XUPu1q82Ntfq71ikuT6ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
