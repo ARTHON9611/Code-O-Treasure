@@ -1,6 +1,6 @@
 # Code-O-Treasure
 
-![Code-O-Treasure Logo](images/logo.png)
+![Code-O-Treasure Logo](images/matcom.png)
 
 Welcome to Code-O-Treasure! An exhilarating treasure hunt experience where participants embark on a thrilling journey to decipher cryptic codes, follow mysterious clues, and unearth hidden treasures.
 
