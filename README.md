@@ -1,6 +1,6 @@
 # Code-O-Treasure
 
-![Code-O-Treasure Logo](images/matcom.png)
+<img src="images/matcom.png" width="100" height="100">
 
 Welcome to Code-O-Treasure! An exhilarating treasure hunt experience where participants embark on a thrilling journey to decipher cryptic codes, follow mysterious clues, and unearth hidden treasures.
 
@@ -31,11 +31,17 @@ To play Code-O-Treasure:
 
 ## Screenshots
 
-![Screenshot 1](images/screenshot1.png)
+![Screenshot 1](images/1.jpg)
 
-![Screenshot 2](images/screenshot2.png)
+![Screenshot 2](images/2.jpg)
 
-![Screenshot 3](images/screenshot3.png)
+![Screenshot 3](images/3.jpg)
+
+![Screenshot 4](images/5.jpg)
+
+![Screenshot 5](images/6.jpg)
+
+![Screenshot 6](images/4.jpg)
 
 ## Contributions
 
@@ -43,12 +49,8 @@ Contributions are welcome! If you have any suggestions, feature requests, or bug
 
 ## Credits
 
-- Developed by [Your Name]
+- Developed by Utkarsh
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Replace `[Your Name]` with your actual name or your team's name, and include actual screenshots of your app in the `images` directory, updating the image paths in the README accordingly.
