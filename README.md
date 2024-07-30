@@ -53,4 +53,3 @@ Contributions are welcome! If you have any suggestions, feature requests, or bug
 
 
 
-Replace `[Your Name]` with your actual name or your team's name, and include actual screenshots of your app in the `images` directory, updating the image paths in the README accordingly.
